@@ -1,13 +1,13 @@
 # Site settings
-title: Lokmont
-description: Lokmont is a responsive simple theme for Jekyll.
+title: LicenseLab
+description: 당신의 자격증을 책임지는곳, LicenseLab
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wjdgodnd2.github.io/lokmont/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
-hero-title: Welcome to Lokmont
-hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
+hero-title: LicenseLab
+hero-description: 당신의 자격증을 책임지는곳, LicenseLab
 
 # Author - Creator
 author-name: Ben Campbell
