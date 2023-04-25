@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wjdgodnd2.github.io/lokmont/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
-hero: 112.jpg
+hero: 123.jpg
 hero-title: LicenseLab
 hero-description: 당신의 자격증을 책임지는곳, LicenseLab
 
