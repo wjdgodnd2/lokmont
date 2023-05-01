@@ -1,7 +1,7 @@
 # Site settings
 title: LicenseLab
 description: 당신의 자격증을 책임지는곳, LicenseLab
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://wjdgodnd2.github.io/lokmont/" # the subpath of your site, e.g. /blog
 url: "https://wjdgodnd2.github.io/lokmont/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
