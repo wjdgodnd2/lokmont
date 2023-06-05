@@ -261,7 +261,7 @@
                     key: t.ldId
                 }, [n("a", {
                     attrs: {
-                        href: "/jnLics/licenseInfo?ld_id=" + t.ldId
+                        href: "/_pages/자격증정보검색.html" + t.ldId
                     }
                 }, [n("div", {
                     staticClass: "relevantLogo"
